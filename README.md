@@ -2,7 +2,8 @@
 
 David Benatia, Raphael Godefroy and Joshua Lewis.
 
-MATLAB estimation example with the supplied U.S. state-level testing data.
+MATLAB estimation example with the supplied aggregate testing data from U.S.
+states and Canadian provinces.
 Run `run_example.m` from this folder. It estimates the model and stores prevalence
 estimates and confidence intervals in `DATA_r`.
 
